@@ -1,0 +1,8 @@
+#team {
+ background-color:blue;
+ color:yellow;
+ }
+#family {
+ background-color:green;
+ color:purple;
+ }
